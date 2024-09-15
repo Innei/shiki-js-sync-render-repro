@@ -35,7 +35,7 @@
     "eslint": "9.8.0",
     "eslint-config-hyoban": "3.1.0",
     "lint-staged": "15.2.7",
-    "postcss": "8.4.40",
+    "postcss": "8.4.47",
     "postcss-import": "16.1.0",
     "postcss-js": "4.0.1",
     "prettier": "3.3.3",
