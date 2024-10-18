@@ -33,7 +33,7 @@
     "click-to-react-component": "1.1.0",
     "daisyui": "4.12.10",
     "eslint": "9.8.0",
-    "eslint-config-hyoban": "3.1.0",
+    "eslint-config-hyoban": "3.1.11",
     "lint-staged": "15.2.7",
     "postcss": "8.4.40",
     "postcss-import": "16.1.0",
